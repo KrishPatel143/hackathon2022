@@ -1,0 +1,11 @@
+
+.btn{
+    position: relative;
+    left: 7rem;
+    top: 27rem;
+    width: 10rem;
+    height: 3rem;
+    text-align: center;
+    line-height: -2rem;
+    font-size: 1.2rem;
+}
